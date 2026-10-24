@@ -2,15 +2,14 @@
 - LeetCode Profile: https://leetcode.com/u/ashwinp2746/
 - Coursework: DSA Mastery Journey (Inspired by Apna College Alpha 6.0)
 
--Coding Platform links
-``
--Hashing:-
-[Two Sum](https://leetcode.com/problems/two-sum/description/)
-[Bottom View binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
+### 💻 Coding Platform Links
 
--Array:-
-[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+#### 🧠 Hashing
+- [Two Sum](https://leetcode.com/problems/two-sum/description/)
+- [Bottom View Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
 
--Bit Manipulation:-
-[Single Number](https://leetcode.com/problems/single-number/)
-``
+#### 🔢 Array
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+
+#### ⚡ Bit Manipulation
+- [Single Number](https://leetcode.com/problems/single-number/)
